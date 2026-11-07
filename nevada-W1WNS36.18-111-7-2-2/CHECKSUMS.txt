@@ -1,0 +1,4 @@
+0166fe6f68c0088b9b5997e2851684aa  work/init_boot_patched_v31.1_W1WNS36.18-111-7-2-2.img
+a3eeef99746e4a95bbbe12df98942a4b  stock/init_boot_stock_111-7-2-2.img
+26a74008280d22d3e1f124db659d595b  stock/boot_stock_111-7-2-2.img
+89cefac0a318afa39fb3880c45c87b036c05bc1ebf02a7a715b7f8d7c26ac6e7  work/Magisk-v31.1.apk
