@@ -2,6 +2,9 @@
 
 One-click root for the Moto G Play 2026 with automatic recovery and unbricking.
 
+> **Verified root pack for build `W1WNS36.18-111-7-2-2` (XT2615-3):**
+> see [nevada-W1WNS36.18-111-7-2-2/README.md](nevada-W1WNS36.18-111-7-2-2/README.md).
+
 ## Device Info
 
 | | |
@@ -76,9 +79,20 @@ Rooting your phone may void your warranty. This script backs up your original bo
 
 If this worked for your device, please open an issue or PR to let me know.
 
+## Credits
+
+- One-click root / unbrick script: original project by Bill J Trammell ([ghost-ble](https://github.com/bill-jtrammell), [moto-root-2026](https://github.com/bill-jtrammell/moto-root-2026))
+- Device-verified root pack for `W1WNS36.18-111-7-2-2`: [wd2834-wq](https://github.com/wd2834-wq)
+
 ## Support
 
 If this saved you time or saved your bricked phone:
+
+Maintainer / root pack:
+
+- **PayPal**: igorwd@gmail.com
+
+Original author:
 
 - **PayPal**: bill.jtrammell@gmail.com
 - **Cash App**: $slauter99

@@ -117,3 +117,17 @@ vbmeta at `0x2AC000` starts with `AVB0 00000001` (unsigned, auxiliary block zero
 - `dmesg` and `/proc/1/*` are not readable as `shell` on this build.
 - Stock images should also be available from Motorola Rescue and Smart Assistant (RSA) for this build;
   the copies here are byte-identical to it.
+
+## Credits & support
+
+- Root pack, verification and recipe: [wd2834-wq](https://github.com/wd2834-wq)
+- One-click root/unbrick script in this repo: original project by Bill J Trammell ([ghost-ble](https://github.com/bill-jtrammell), [moto-root-2026](https://github.com/bill-jtrammell/moto-root-2026))
+
+Support this pack:
+
+- **PayPal (maintainer)**: igorwd@gmail.com
+
+Support the original author:
+
+- **PayPal**: bill.jtrammell@gmail.com
+- **Cash App**: $slauter99
